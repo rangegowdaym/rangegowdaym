@@ -70,16 +70,15 @@ At **Refinitiv (LSEG)** via TCS *(Jan 2025 – Present)*:
 
 | Period | Role | Client / Company |
 |--------|------|-----------------|
-| Jan 2025 – Present | SDET Lead (AI-Driven QA) | Refinitiv LSEG via TCS |
-| Jun 2023 – Dec 2024 | SDET Lead | Ikano Bank via TCS |
-| Feb 2020 – Apr 2023 | SDET Lead | Refinitiv LSEG via TCS |
-| Sep 2016 – Jan 2020 | Senior SDET | Thomson Reuters via TCS |
-| Apr 2016 – Aug 2016 | SDET | J.P. Morgan Chase via TCS |
+| Jan 2025 – Present | SDET Lead (AI-Driven QA) | Tata Consultancy Services Ltd. |
+| Feb 2020 – Dec 2024 | SDET Lead | ITata Consultancy Services Ltd. |
+| Sep 2016 – Jan 2020 | Senior SDET | Tata Consultancy Services Ltd. |
+| Apr 2016 – Aug 2016 | SDET | Tata Consultancy Services Ltd. |
 | Nov 2014 – Mar 2016 | Senior Test Engineer | Happiest Minds Technologies |
 | Apr 2011 – Nov 2014 | Test Engineer | Aditi Technology |
 
 **Career wins:**
-- Automated 200+ regression test cases at Thomson Reuters, cutting regression cycle from 4 days to 8 hours
+- Automated 200+ regression test cases at TCS, cutting regression cycle from 4 days to 8 hours
 - Built Selenium/Java frameworks from scratch at Aditi, reducing execution time from 3 days to under 6 hours
 - Maintained zero P1 post-release defects across 4 consecutive quarterly releases
 - Reduced production bugs by 30% through pre-release defect identification at Happiest Minds
