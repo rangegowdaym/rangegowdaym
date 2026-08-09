@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-I'm an **SDET Lead** at Tata Consultancy Services (Bangalore), currently leading QA modernization for **One of the Top Finance Client** — one of the world's largest financial data platforms. My focus has shifted firmly into AI-augmented testing: using **GitHub Copilot** for test authoring, **Playwright MCP Server** for LLM-driven browser automation, and **Playwright with TypeScript** as my primary framework.
+I'm an **SDET Lead** at Tata Consultancy Services (Bangalore), currently leading QA modernization for **Finance Client** — one of the world's largest financial data platforms. My focus has shifted firmly into AI-augmented testing: using **GitHub Copilot** for test authoring, **Playwright MCP Server** for LLM-driven browser automation, and **Playwright with TypeScript** as my primary framework.
 
 - 🏦 Domain: Financial services, fraud detection, e-commerce platforms
 - 🤖 Currently exploring: AI-agent-driven QA workflows and LLM-integrated test orchestration
