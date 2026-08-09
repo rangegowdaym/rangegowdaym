@@ -17,9 +17,9 @@ I'm an **SDET Lead** at Tata Consultancy Services (Bangalore), currently leading
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀 What I'm Working On Currently
 
-At **Refinitiv (LSEG)** via TCS *(Jan 2025 – Present)*:
+At **Tata Consultancy Services Ltd.** via TCS *(Jan 2025 – Present)*:
 
 - Designed and leading a **Playwright (TypeScript)** automation framework with POM + Data-Driven architecture for cross-browser regression coverage
 - Configured **Playwright MCP Server** for AI-agent-driven test execution with natural-language LLM orchestration
